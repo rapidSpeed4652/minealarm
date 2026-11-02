@@ -3,6 +3,8 @@
 # MineAlarm
 A sophisticated (atleast according to me) alarm clock with four buttons and a buzzers. The case is based on Minecraft.
 
+[![View PCB on KiCanvas](https://hack.club/pcb-badge)](https://kicanvas.org/?repo=https://github.com/rapidSpeed4652/minealarm/tree/main/pcb)
+
 # Mechanism ⚙️
 ## 1) Normal mode ☑️
 Mostly in this mode, where most of the buttons don't do anything.
