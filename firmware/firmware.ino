@@ -397,6 +397,17 @@ void setup() {
     {
       isPM = !isPM;
     }
+    else if(currentState == STATE_SET_ALARM)
+    {
+      if(editCursor < 2)
+      {
+        editCursor += 1;
+      }
+      else
+      {
+        editCursor = 0;
+      }
+    }
   });
 }
 
