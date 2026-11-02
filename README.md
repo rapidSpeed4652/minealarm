@@ -45,6 +45,13 @@ Button 2 acts as snooze button and Button 3 as dismiss button.
 ## Schematic
 <img width="1187" height="805" alt="Screenshot_20261102_203646" src="https://github.com/user-attachments/assets/f08312e3-2258-440d-a73c-0b04ab7a00c9" />
 
+# BOM
+- 4x Cherry-MX style switches
+- 4x 1u r1 keycaps
+- 1x Seeed XIAO esp32c3
+- 1x Piezo Buzzer
+- 1x TFT screen
+
 # Credits
 Thanks to Liam Newbill for reminding me to work on this and BLARE for giving me a chance to make this!
 I also thank myself for not losing motivation :)
