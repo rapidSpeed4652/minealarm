@@ -48,9 +48,14 @@ Button 2 acts as snooze button and Button 3 as dismiss button.
 # BOM
 - 4x Cherry-MX style switches
 - 4x 1u r1 keycaps
+- 4x Through-Hole 1N4148 Diodes
 - 1x Seeed XIAO esp32c3
 - 1x Piezo Buzzer
 - 1x TFT screen
+- 4x M3x16mm Screws
+- 1x 2.54mm 8 Pin Male Header
+- 8x 20cm Female-Female Jumper Wires
+- 4x M3x5x4 Heatset Inserts
 
 # Credits
 Thanks to Liam Newbill for reminding me to work on this and BLARE for giving me a chance to make this!
